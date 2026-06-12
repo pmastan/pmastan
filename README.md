@@ -6,7 +6,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://mastanportfolio-izuu.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github)
-[![GitHub](https://://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pmastan)
 
 </div>
 
@@ -78,7 +77,7 @@ I’m open to:
 - Startup Collaborations  
 
 📫 **Reach me here:**  
-- Portfolio: https://your-portfolio-link  
+- Portfolio: https://mastanportfolio-izuu.vercel.app/ 
 - LinkedIn: https://www.linkedin.com/in/your-linkedin  
 
 ---
