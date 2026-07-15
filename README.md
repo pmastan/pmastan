@@ -1,88 +1,145 @@
-# Mastan 👨‍💻
-> Full-Stack Developer | MERN | Scalable Business Applications 🚀
+# Hi, I'm Mastan 👋
 
-<div align="center">
+### Full-Stack Developer | MERN Stack | Building Scalable Web Applications
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://mastanportfolio-izuu.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pmastan)
-
-</div>
----
-
-## About Me ✨
-
-I’m a **Full-Stack Developer** focused on building **scalable, real-world business applications** using the **MERN stack**.  
-I specialize in **e-commerce platforms, admin dashboards, role-based systems, secure APIs, and performance-driven UI/UX**.
-
-I have hands-on experience building **full-stack web applications**, **authentication systems**, **payment integrations**, and **cloud-deployed applications**.
+<p align="center">
+  <a href="https://mastanportfolio-izuu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/pmastan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Tech Stack 🛠️
+# 👨‍💻 About Me
 
-### Frontend
+I'm a **Full-Stack Developer** with hands-on experience building modern, scalable web applications using the **MERN Stack**.
+
+I enjoy transforming ideas into real-world products by developing responsive user interfaces, secure backend APIs, and reliable database solutions.
+
+### I specialize in:
+
+- Full-Stack MERN Development
+- Responsive React Applications
+- RESTful API Development
+- Authentication & Authorization (JWT)
+- Role-Based Access Control (RBAC)
+- E-commerce Platforms
+- Admin Dashboards
+- Database Design
+- Cloud Deployment
+
+---
+
+# 🚀 Tech Stack
+
+## Frontend
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Backend & APIs
+---
+
+## Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6B6B?style=flat-square&logo=api&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-### Database
+---
+
+## Database
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### Cloud & DevOps
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+---
 
-### Tools
+## Cloud & Deployment
+
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## What I Build 💡
+# 💼 What I Build
 
-- **E-commerce Applications** (Products, Cart, Orders, Users)
-- **Admin Dashboards** (Role-based access, analytics)
-- **Authentication Systems** (Google login, JWT)
-- **Payment Integrations**
-- **Full MERN Stack Applications**
-- **Cloud-hosted Web Apps**
+✔ E-commerce Applications
+
+✔ Admin Dashboards
+
+✔ Authentication & Authorization Systems
+
+✔ Role-Based Access Control (RBAC)
+
+✔ RESTful APIs
+
+✔ Full MERN Stack Applications
+
+✔ Cloud-Deployed Web Applications
+
+✔ Responsive Business Websites
 
 ---
 
-## Current Focus 🌱
+# 🌱 Currently Learning
 
-- Advanced MERN Stack Development  
-- Secure API Architecture  
-- Scalable Application Design  
-- Cloud Deployment  
+- Advanced React Patterns
+- Scalable Backend Architecture
+- AWS Cloud Services
+- Performance Optimization
+- System Design
 
 ---
 
-## Let’s Connect 🤝
+# 🤝 Let's Connect
 
-I’m open to:
-- Full-Stack Development Roles  
-- Freelance Projects  
-- Startup Collaborations  
+I'm currently open to:
 
-📫 **Reach me here:**  
-- Portfolio: https://mastanportfolio-izuu.vercel.app/ 
-- LinkedIn: https://www.linkedin.com/in/your-linkedin  
+- Full-Stack Developer Opportunities
+- Frontend Developer Roles
+- Freelance Projects
+- Startup Collaborations
+
+### 📫 Contact
+
+🌐 **Portfolio**  
+https://mastanportfolio-izuu.vercel.app/
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/your-linkedin
+
+🐙 **GitHub**  
+https://github.com/pmastan
 
 ---
 
 <div align="center">
 
-⭐ *Building scalable and practical web applications.*
+### ⭐ Thanks for visiting my profile!
+
+*Building scalable, secure, and user-friendly web applications.*
 
 </div>
