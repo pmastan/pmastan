@@ -129,7 +129,7 @@ I'm currently open to:
 https://mastanportfolio-izuu.vercel.app/
 
 💼 **LinkedIn**  
-https://www.linkedin.com/in/your-linkedin
+https://www.linkedin.com/in/mastan-vali-1a13683ba/
 
 🐙 **GitHub**  
 https://github.com/pmastan
