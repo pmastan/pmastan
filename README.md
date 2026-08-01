@@ -1,38 +1,50 @@
-# Hi, I'm Mastan 👋
+<h1 align="center">
+Hi 👋, I'm Mastan Vali
+</h1>
 
-### Full-Stack Developer | MERN Stack | Building Scalable Web Applications
+<h3 align="center">
+🚀 Full Stack Developer | MERN Stack | React | Node.js | Building Modern Scalable Web Applications
+</h3>
 
 <p align="center">
-  <a href="https://mastanportfolio-izuu.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mastan-vali-a00112334/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/pmastan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+New+Technologies;Open+to+Full+Stack+Developer+Opportunities" />
+
 </p>
 
 ---
 
-# 👨‍💻 About Me
+<p align="center">
 
-I'm a **Full-Stack Developer** with hands-on experience building modern, scalable web applications using the **MERN Stack**.
+<a href="https://mastanportfolio-izuu.vercel.app/">
+<img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-I enjoy transforming ideas into real-world products by developing responsive user interfaces, secure backend APIs, and reliable database solutions.
+<a href="https://www.linkedin.com/in/mastan-vali-a00112334/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-### I specialize in:
+<a href="https://github.com/pmastan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-- Full-Stack MERN Development
-- Responsive React Applications
-- RESTful API Development
-- Authentication & Authorization (JWT)
-- Role-Based Access Control (RBAC)
-- E-commerce Platforms
-- Admin Dashboards
-- Database Design
-- Cloud Deployment
+<a href="mailto:mastan0843@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💫 About Me
+
+💻 Passionate Full Stack Developer with experience building production-ready web applications using modern JavaScript technologies.
+
+🚀 I enjoy transforming ideas into fast, scalable, secure, and responsive applications.
+
+✨ I love solving real-world problems through clean architecture and reusable code.
+
+🎯 Currently focused on building enterprise-grade MERN applications and improving backend scalability.
 
 ---
 
@@ -40,106 +52,215 @@ I enjoy transforming ideas into real-world products by developing responsive use
 
 ## Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,vite,redux,js,ts,nextjs,html,css,tailwind,bootstrap" />
+
+</p>
 
 ---
 
 ## Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,npm" />
+
+</p>
 
 ---
 
 ## Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase" />
+
+</p>
 
 ---
 
-## Cloud & Deployment
+## Cloud & DevOps
 
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker,githubactions" />
+
+</p>
 
 ---
 
 ## Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
+
+</p>
 
 ---
 
-# 💼 What I Build
+# 🧠 Core Skills
 
-✔ E-commerce Applications
+✅ Full Stack MERN Development
 
-✔ Admin Dashboards
+✅ REST API Development
 
-✔ Authentication & Authorization Systems
+✅ Authentication (JWT)
 
-✔ Role-Based Access Control (RBAC)
+✅ Authorization (RBAC)
 
-✔ RESTful APIs
+✅ Redux Toolkit
 
-✔ Full MERN Stack Applications
+✅ Context API
 
-✔ Cloud-Deployed Web Applications
+✅ Responsive UI Design
 
-✔ Responsive Business Websites
+✅ CRUD Applications
+
+✅ Admin Dashboards
+
+✅ Payment Gateway Integration
+
+✅ Cloud Deployment
+
+✅ API Integration
+
+✅ Database Design
 
 ---
 
-# 🌱 Currently Learning
+# 💼 Featured Projects
+
+### 🛒 Aspire Brand Store
+
+Modern eCommerce platform with authentication, cart, product management and responsive UI.
+
+**Tech**
+
+React • Tailwind CSS • Redux Toolkit • REST APIs
+
+---
+
+### 📝 Online Exam Portal
+
+Complete Full Stack Examination System with authentication, timer, leaderboard, results, profile management and admin dashboard.
+
+**Tech**
+
+React • Node.js • Express • MySQL • JWT
+
+---
+
+### 🏫 School Management Website
+
+Modern responsive school website built with React featuring admission, gallery, events, news and contact pages.
+
+**Tech**
+
+React • CSS3 • Vite
+
+---
+
+### 🌦 Weather App
+
+Weather forecasting application using real-time weather APIs.
+
+**Tech**
+
+React • API Integration
+
+---
+
+### 🧮 Income Tax Calculator
+
+Interactive tax calculator with modern UI and tax information.
+
+**Tech**
+
+React • JavaScript
+
+---
+
+# 📚 Currently Learning
 
 - Advanced React Patterns
-- Scalable Backend Architecture
-- AWS Cloud Services
-- Performance Optimization
+- Next.js
+- TypeScript
+- Docker
+- AWS Services
+- CI/CD Pipelines
 - System Design
+- Performance Optimization
 
 ---
 
-# 🤝 Let's Connect
+# 📈 GitHub Stats
 
-I'm currently open to:
+<p align="center">
 
-- Full-Stack Developer Opportunities
-- Frontend Developer Roles
-- Freelance Projects
-- Startup Collaborations
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pmastan&show_icons=true&theme=tokyonight"/>
 
-### 📫 Contact
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pmastan&theme=tokyonight"/>
 
-🌐 **Portfolio**  
-https://mastanportfolio-izuu.vercel.app/
+</p>
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/mastan-vali-a00112334/
+---
 
-🐙 **GitHub**  
-https://github.com/pmastan
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmastan&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pmastan&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://mastanportfolio-izuu.vercel.app/">
+Portfolio
+</a>
+
+•
+
+<a href="https://github.com/pmastan">
+GitHub
+</a>
+
+•
+
+<a href="https://www.linkedin.com/in/mastan-vali-a00112334/">
+LinkedIn
+</a>
+
+•
+
+<a href="mailto:mastan0843@gmail.com">
+Email
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## 💡 "Code. Learn. Build. Improve. Repeat."
 
-*Building scalable, secure, and user-friendly web applications.*
+⭐ Thank you for visiting my profile.
+
+If you like my work, don't forget to ⭐ my repositories!
 
 </div>
