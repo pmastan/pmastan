@@ -224,6 +224,15 @@ React • JavaScript
 </p>
 
 ---
+## 🏆 GitHub Achievements
+
+- 🌟 Building production-ready MERN Stack applications
+- 🚀 Actively contributing to personal and open-source projects
+- 💡 Passionate about writing clean, scalable code
+- 📚 Continuously learning modern web technologies
+- 🔥 Consistently improving through hands-on development
+
+---
 
 # 🌐 Connect With Me
 
@@ -233,19 +242,18 @@ React • JavaScript
 Portfolio
 </a>
 
-•
+
 
 <a href="https://github.com/pmastan">
 GitHub
 </a>
 
-•
+
 
 <a href="https://www.linkedin.com/in/mastan-vali-a00112334/">
 LinkedIn
 </a>
 
-•
 
 <a href="mailto:mastan0843@gmail.com">
 Email
