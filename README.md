@@ -144,51 +144,110 @@ Hi 👋, I'm Mastan Vali
 
 ### 🛒 Aspire Brand Store
 
-Modern eCommerce platform with authentication, cart, product management and responsive UI.
+A modern, responsive eCommerce platform designed to provide a seamless online shopping experience. The application includes secure user authentication, dynamic product browsing, advanced search and filtering, shopping cart management, wishlist functionality, order management, and an intuitive admin dashboard for product and inventory management. Built with a scalable architecture, it delivers fast performance, reusable components, and a mobile-friendly user interface.
 
-**Tech**
+**Key Features**
+- 🔐 Secure user authentication and authorization
+- 🛍️ Product catalog with categories and search
+- 🛒 Shopping cart and wishlist management
+- 📦 Product variations and inventory management
+- 👨‍💼 Admin dashboard for product management
+- 📱 Fully responsive design for all devices
+- ⚡ Fast state management with Redux Toolkit
+- 🔄 REST API integration for dynamic data
+- 🎨 Modern UI with Tailwind CSS
 
-React • Tailwind CSS • Redux Toolkit • REST APIs
+**Tech Stack**
+
+React • Tailwind CSS • Redux Toolkit • JavaScript • REST APIs • Responsive Design • Git • Vercel
 
 ---
 
 ### 📝 Online Exam Portal
 
-Complete Full Stack Examination System with authentication, timer, leaderboard, results, profile management and admin dashboard.
+A comprehensive Full Stack Online Examination System designed to streamline the entire examination process for students and administrators. The platform enables secure user authentication, role-based access control, real-time exam sessions with countdown timers, automatic evaluation, instant result generation, and performance tracking. It also includes a powerful admin dashboard for managing exams, questions, users, and reports, providing a seamless and scalable examination experience.
 
-**Tech**
+**Key Features**
+- 🔐 Secure authentication using JWT
+- 👥 Role-Based Access Control (Admin & Student)
+- 📝 Create, update, and manage exams and questions
+- ⏱️ Real-time exam timer with auto-submit functionality
+- 📊 Instant result generation and score calculation
+- 🏆 Leaderboard based on student performance
+- 👤 User profile and exam history management
+- 📈 Performance analytics and detailed reports
+- 📱 Fully responsive interface for desktop and mobile
+- ⚡ RESTful API architecture with efficient backend integration
+- 💾 MySQL database for secure and reliable data management
 
-React • Node.js • Express • MySQL • JWT
+**Tech Stack**
+
+React • Node.js • Express.js • MySQL • JWT Authentication • REST APIs • HTML5 • CSS3 • JavaScript • Git • GitHub
 
 ---
 
 ### 🏫 School Management Website
 
-Modern responsive school website built with React featuring admission, gallery, events, news and contact pages.
+A modern, responsive school website developed to provide students, parents, and visitors with easy access to essential school information. The platform showcases the school's academic programs, admission process, events, gallery, news, faculty details, and contact information through an intuitive and user-friendly interface. Built with reusable React components, it ensures fast performance, seamless navigation, and an excellent experience across all devices.
 
-**Tech**
+**Key Features**
+- 🏫 Responsive homepage with modern UI
+- 📖 Admission information and enquiry section
+- 📰 News and announcements page
+- 🎉 Events and activities showcase
+- 🖼️ Image gallery for school memories
+- 👨‍🏫 Faculty and school information pages
+- 📞 Contact page with inquiry form
+- 📱 Mobile-friendly and fully responsive design
+- ⚡ Fast loading with Vite
+- 🎨 Clean, reusable React component architecture
 
-React • CSS3 • Vite
+**Tech Stack**
+
+React • Vite • JavaScript • HTML5 • CSS3 • Responsive Design • Git • GitHub
 
 ---
 
 ### 🌦 Weather App
 
-Weather forecasting application using real-time weather APIs.
+A modern and responsive weather forecasting application that provides real-time weather updates using external weather APIs. Users can search for any city worldwide to view current weather conditions, including temperature, humidity, wind speed, atmospheric pressure, visibility, and weather descriptions. The application features a clean and intuitive interface, fast API integration, and responsive design for a seamless experience across desktop and mobile devices.
 
-**Tech**
+**Key Features**
+- 🌍 Search weather by city name
+- 🌡️ Real-time temperature and weather conditions
+- 💧 Displays humidity, pressure, and visibility
+- 💨 Wind speed and direction information
+- ☁️ Dynamic weather icons based on conditions
+- 📍 Location-based weather support
+- 📱 Fully responsive design for all screen sizes
+- ⚡ Fast API integration with real-time updates
+- 🎨 Clean and user-friendly interface
+- 🔄 Error handling for invalid city searches
 
-React • API Integration
+**Tech Stack**
 
+React • JavaScript • HTML5 • CSS3 • Weather API • REST APIs • API Integration • Responsive Design • Git • GitHub
 ---
 
 ### 🧮 Income Tax Calculator
 
-Interactive tax calculator with modern UI and tax information.
+A responsive and user-friendly Income Tax Calculator built to help users estimate their income tax liability based on the latest tax slabs. The application provides an intuitive interface for entering income details, selecting tax regimes, and instantly calculating the total tax payable. It also includes a detailed tax breakdown, educational information about tax rules, and a clean, mobile-friendly design to simplify financial planning.
 
-**Tech**
+**Key Features**
+- 💰 Calculate income tax based on annual income
+- 📊 Supports Old and New Tax Regime comparison
+- 🧮 Instant tax calculation with real-time updates
+- 📑 Detailed tax breakdown and payable amount
+- 📈 Easy-to-understand tax summary
+- 🔄 Interactive input forms with validation
+- 📱 Fully responsive design for desktop and mobile
+- ⚡ Fast calculations with optimized React components
+- 🎨 Modern and intuitive user interface
+- ℹ️ Tax information and guidance for users
 
-React • JavaScript
+**Tech Stack**
+
+React • JavaScript • HTML5 • CSS3 • Vite • Responsive Design • State Management • Git • GitHub
 
 ---
 
