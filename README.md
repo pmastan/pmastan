@@ -52,50 +52,60 @@ Hi 👋, I'm Mastan Vali
 
 ## Frontend
 
-<p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,redux,js,nextjs,html,css,tailwind,bootstrap" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,vite,redux,js,ts,nextjs,html,css,tailwind,bootstrap" />
-
+<p align="left">
+  React • Vite • Redux • JavaScript • Next.js • HTML5 • CSS3 • Tailwind CSS • Bootstrap
 </p>
 
 ---
 
 ## Backend
 
-<p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,npm" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,npm" />
-
+<p align="left">
+  Node.js • Express.js • npm
 </p>
 
 ---
 
 ## Database
 
-<p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,firebase,mongodb" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase" />
-
+<p align="left">
+  MySQL • Supabase • Firebase • MongoDB 
 </p>
 
 ---
 
 ## Cloud & DevOps
 
-<p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker,githubactions" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker,githubactions" />
-
+<p align="left">
+  AWS • Vercel • Netlify • Docker • GitHub Actions
 </p>
 
 ---
 
 ## Tools
 
-<p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
-
+<p align="left">
+  Git • GitHub • VS Code • Postman • Figma • Linux
 </p>
 
 ---
